@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">2087610812039601</string>
+    
+    <string name="fb_login_protocol_scheme">fb2087610812039601</string>
+    
+    <string name="facebook_client_token">4a91131c438d8b5a67970fc86a2a460b</string>
+
+    <string name="app_name">smart AR cart</string>
+</resources>
